@@ -602,7 +602,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer {
     padding: 0 0 50px 0;
     background-position: center center;
-    background-image: linear-gradient(to bottom, #0387cc, #0387cb, #0386ca, #0286ca, #0285c9, #0386cb, #0387cc, #0488ce, #058bd2, #068ed6, #0792db, #0895df);
+    background-image: linear-gradient(to bottom, #0292dd, #018cd4, #0186ca, #0281c1, #037bb8, #0071a9, #00689a, #005e8b, #004e74, #013f5d, #023047, #032233);
 }
 
 .newsletter-bx {
@@ -679,7 +679,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer p {
     font-weight: 400;
     font-size: 14px;
-    color: #03045E;
+    color: #C9F2F8;
     letter-spacing: 0.5px;
     margin-top: 20px;
 }
