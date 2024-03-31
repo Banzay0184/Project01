@@ -8,7 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2ePOA04vnlECPafY8mqP5CyF1Bw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,6 +35,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/img" />
+      <recent name="$PROJECT_DIR$/src/assets/logo" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,7 +49,9 @@
       <option name="presentableId" value="Default" />
       <updated>1711802602887</updated>
       <workItem from="1711802608714" duration="541000" />
-      <workItem from="1711832825384" duration="2763000" />
+      <workItem from="1711832825384" duration="3633000" />
+      <workItem from="1711914853879" duration="2226000" />
+      <workItem from="1711918903534" duration="1616000" />
     </task>
     <servers />
   </component>
