@@ -33,7 +33,7 @@ body {
     font-weight: 400;
     overflow-x: hidden;
     position: relative;
-    background-color: #03045E !important;
+    background-color: #000204 !important;
     color: #fff !important;
     font-family: 'Centra', sans-serif !important;
 }
@@ -261,7 +261,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
     margin-top: 0;
     padding: 260px 0 100px 0;
-    background-image: url('../src/assets/img/banner-bg.jpg');
+    background-image: url('https://images.wallpaperscraft.com/image/single/starry_sky_cosmos_radiance_119863_3840x2160.jpg');
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -426,7 +426,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     position: absolute;
     width: 0;
     height: 100%;
-    background-image: linear-gradient(to right top, #03045e, #000f60, #001761, #001e61, #002461, #002a64, #003067, #00366a, #003e71, #004677, #004f7d, #025783);
+    background-image: linear-gradient(to right bottom, #0387cc, #1c90d2, #2b99d8, #39a3dd, #46ace3, #56b3e7, #64bbea, #71c2ee, #83caf0, #93d1f3, #a3d9f5, #b3e0f8);
     top: 0;
     left: -1px;
     z-index: -1;
@@ -509,7 +509,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 .background-image-right {
     position: absolute;
-    bottom: -40%;
+    bottom: -10%;
     width: 100%;
     right: 0;
     z-index: -4;
@@ -517,8 +517,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /************ Projects Css ************/
 .contact {
-    background-image: linear-gradient(to right top, #0105be, #0416c8, #0622d2, #072cdd, #0836e7, #0343ed, #034ef2, #0a59f7, #1e68f7, #3275f6, #4582f3, #588ef0);
-
+    background-image: linear-gradient(to bottom, #000000, #0b0106, #11030f, #130617, #100b1f, #13172e, #12213e, #092c4e, #0f416c, #13578b, #116eab, #0387cc);
     padding: 60px 0 100px 0;
 }
 
@@ -603,9 +602,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer {
     padding: 0 0 50px 0;
     background-position: center center;
-    background-image: url("../src/assets/img/banner-bg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom, #0387cc, #088bd0, #0d8fd5, #1194d9, #1598dd, #249de0, #30a3e2, #3aa8e5, #4cb0e8, #5cb8ea, #6bbfec, #79c7ef);
 }
 
 .newsletter-bx {
@@ -682,7 +679,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .footer p {
     font-weight: 400;
     font-size: 14px;
-    color: #B8B8B8;
+    color: #03045E;
     letter-spacing: 0.5px;
     margin-top: 20px;
 }
