@@ -33,7 +33,7 @@ body {
     font-weight: 400;
     overflow-x: hidden;
     position: relative;
-    background-color: #000204 !important;
+    background-color: #010108 !important;
     color: #fff !important;
     font-family: 'Centra', sans-serif !important;
 }
@@ -96,7 +96,7 @@ nav.navbar {
 
 nav.navbar.scrolled {
     padding: 0px 0;
-    background-color: rgba(88, 142, 240, 0.81);
+    background-color: rgb(21 37 67 / 81%);
 }
 
 nav.navbar a.navbar-brand {
@@ -364,7 +364,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .background-image-left {
-    top: -30%;
+    top: -8%;
     position: absolute;
     left: -40%;
     bottom: 0;
