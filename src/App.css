@@ -721,3 +721,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .about-list li svg {
     margin-right: 8px;
 }
+
+.banner-text {
+    position: relative;
+}
