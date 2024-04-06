@@ -54,7 +54,6 @@ export const Banner = () => {
                 <Row className="aligh-items-center">
                     <Col xs={12} md={6} xl={7}>
                         <TrackVisibility>
-                            {({isVisible}) =>
                                 <div className="animate__animated animate__fadeIn banner-text">
                                     <h1><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Личное обучение профессиональному тренингу"]'><span
                                         className="wrap">{text}</span></span></h1>
@@ -111,7 +110,7 @@ export const Banner = () => {
                                     </div>
                                     <button onClick={() => console.log('connect')}>Узнать больше обо мне <ArrowRightCircle
                                         size={25}/></button>
-                                </div>}
+                                </div>
                         </TrackVisibility>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
