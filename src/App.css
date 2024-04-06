@@ -282,6 +282,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .banner h1 {
+    height: 200px;
     font-size: 65px;
     font-weight: 700;
     letter-spacing: 0.8px;
@@ -443,7 +444,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     height: 100%;
     background-image: linear-gradient(to right bottom, #0387cc, #1c90d2, #2b99d8, #39a3dd, #46ace3, #56b3e7, #64bbea, #71c2ee, #83caf0, #93d1f3, #a3d9f5, #b3e0f8);
     top: 0;
-    left: -1px;
+    left: 0;
     z-index: -1;
     transition: 0.3s ease-in-out;
 }
