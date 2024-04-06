@@ -41,16 +41,6 @@ export const Projects = () => {
             description: "",
             imgUrl: projImg3,
         },
-        {
-            title: "Риск и мани-менеджмент",
-            description: "",
-            imgUrl: projImg2,
-        },
-        {
-            title: "Торговый алгоритм",
-            description: "",
-            imgUrl: projImg3,
-        },
     ];
 
     return (
